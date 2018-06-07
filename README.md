@@ -1,6 +1,6 @@
 # footballpredictor
 
-welcome, noobs
+welcome
 
 this is the repo we're gonna use to make the football predictor algo
 
